@@ -1,6 +1,6 @@
 name = "SpectralBarrierMethod"
 uuid = "aee288fa-9512-4637-b72d-5ce5ca970827"
-authors = ["Sébastien Loisel <sloisel@gmail.com>"]
+authors = ["Sébastien Loisel <sl398@hw.ac.uk>"]
 version = "0.1.0"
 
 [deps]

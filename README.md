@@ -1,4 +1,7 @@
 # SpectralBarrierMethod
+
+## Author: Sébastien Loisel
+
 The Spectral Barrier Method: spectral solution to highly nonlinear convex PDEs
 
 To solve a p-Laplace equation in 1d, do:
