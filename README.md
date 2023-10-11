@@ -17,3 +17,5 @@ julia> using SpectralBarrierMethod; SOL=test2(Float64,n=7,p=1.1);
 ```
 
 To see some more examples, look at the source code for `test1` and `test2`.
+
+Subdirectory `paperfigures/` contains a notebook for generating the figures in the paper.
